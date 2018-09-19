@@ -8,3 +8,6 @@
  */
 
 rootProject.name = 'playground'
+include 'awsfun'
+include 'soap-again'
+
