@@ -10,4 +10,8 @@
 rootProject.name = 'playground'
 include 'awsfun'
 include 'soap-again'
+include 'konkurrent'
+include 'spring-rest'
+include 'spring-soap-ws'
+include 'spring-feign'
 
