@@ -14,4 +14,6 @@ include 'konkurrent'
 include 'spring-rest'
 include 'spring-soap-ws'
 include 'spring-feign'
+include 'spring-eureka'
+include 'eureka-client'
 
