@@ -16,4 +16,5 @@ include 'spring-soap-ws'
 include 'spring-feign'
 include 'spring-eureka'
 include 'eureka-client'
+include 'lambdafun'
 
