@@ -17,4 +17,6 @@ include 'spring-feign'
 include 'spring-eureka'
 include 'eureka-client'
 include 'lambdafun'
+include 'polly-fun'
+include 'playflink'
 
